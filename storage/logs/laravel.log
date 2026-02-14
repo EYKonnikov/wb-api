@@ -1,0 +1,4 @@
+[2026-02-14 10:57:18] local.ERROR: Allowed memory size of 134217728 bytes exhausted (tried to allocate 503808 bytes) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Allowed memory size of 134217728 bytes exhausted (tried to allocate 503808 bytes) at /home/runner/workspace/wb-api/vendor/guzzlehttp/psr7/src/Utils.php:432)
+[stacktrace]
+#0 {main}
+"} 
